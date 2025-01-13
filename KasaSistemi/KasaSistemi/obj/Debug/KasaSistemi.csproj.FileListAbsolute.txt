@@ -1,0 +1,172 @@
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe.config
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.pdb
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.AssemblyReference.cache
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.Properties.Resources.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.GenerateResource.cache
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.CoreCompileInputs.cache
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.exe
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.pdb
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmGiris.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmAnaForm.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmKullaniciYonetimi.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmRaporlama.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSist.ED28DF6F.Up2Date
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Crypto.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.xml
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmUrunYonetimi.resources
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.dll
+D:\vs22\vsProjeler\VS PROJELER\PROJE\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe.config
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.pdb
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Guna.UI2.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\MaterialSkin.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\RestSharp.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.CodeDom.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\RestSharp.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.CodeDom.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.AssemblyReference.cache
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmAnaForm.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmGiris.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmKullaniciYonetimi.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmRaporlama.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmUrunYonetimi.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.Properties.Resources.resources
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.GenerateResource.cache
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSist.ED28DF6F.Up2Date
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.exe
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.pdb
+C:\Users\werwend\Desktop\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmAlertBox.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe.config
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.exe
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\KasaSistemi.pdb
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Guna.UI2.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\MaterialSkin.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\RestSharp.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.CodeDom.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\itextsharp.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\RestSharp.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Buffers.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.CodeDom.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Memory.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.AssemblyReference.cache
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmAlertBox.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmAnaForm.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmGiris.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmKullaniciYonetimi.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmRaporlama.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.FrmUrunYonetimi.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.Properties.Resources.resources
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.GenerateResource.cache
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSist.ED28DF6F.Up2Date
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.exe
+C:\Users\werwend\Desktop\232516002OmerFarukCintas\KasaSistemi\KasaSistemi\obj\Debug\KasaSistemi.pdb

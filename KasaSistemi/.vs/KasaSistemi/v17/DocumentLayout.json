@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|c:\\users\\werwend\\desktop\\232516002omerfarukcintas\\kasasistemi\\kasasistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|c:\\users\\werwend\\desktop\\232516002omerfarukcintas\\kasasistemi\\kasasistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\kasasistemi\\frmraporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmraporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|c:\\users\\werwend\\desktop\\232516002omerfarukcintas\\kasasistemi\\kasasistemi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\kasasistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\kasasistemi\\frmraporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmraporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\kasasistemi\\frmurunyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmurunyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\kasasistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4236ED16-27F6-4CC7-A060-07EA9F33402C}|KasaSistemi\\KasaSistemi.csproj|solutionrelative:kasasistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmGiris.cs",
+              "RelativeToolTip": "KasaSistemi\\FrmGiris.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:55:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KasaSistemi\\FrmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:55:00.447Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRaporlama.cs",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmRaporlama.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmRaporlama.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmRaporlama.cs",
+              "RelativeToolTip": "KasaSistemi\\FrmRaporlama.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:39:21.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRaporlama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmRaporlama.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmRaporlama.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmRaporlama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KasaSistemi\\FrmRaporlama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:39:17.65Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmUrunYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmUrunYonetimi.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmUrunYonetimi.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmUrunYonetimi.cs",
+              "RelativeToolTip": "KasaSistemi\\FrmUrunYonetimi.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:48:33.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\App.config",
+              "RelativeDocumentMoniker": "KasaSistemi\\App.config",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\App.config",
+              "RelativeToolTip": "KasaSistemi\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T15:26:31.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmAnaForm.cs",
+              "RelativeToolTip": "KasaSistemi\\FrmAnaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:15:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\werwend\\Desktop\\232516002OmerFarukCintas\\KasaSistemi\\KasaSistemi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "KasaSistemi\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\werwend\\Desktop\\KasaSistemi\\KasaSistemi\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\KasaSistemi\\KasaSistemi\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:15:36.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
